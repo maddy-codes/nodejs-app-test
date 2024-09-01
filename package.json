@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-app-test",
+  "version": "1.0.0",
+  "description": "This is again an attempt to make a project based on node js express module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddy-codes/nodejs-app-test.git"
+  },
+  "author": "Jatin Arora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maddy-codes/nodejs-app-test/issues"
+  },
+  "homepage": "https://github.com/maddy-codes/nodejs-app-test#readme"
+}
