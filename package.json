@@ -4,7 +4,8 @@
   "description": "This is again an attempt to make a project based on node js express module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/maddy-codes/nodejs-app-test/issues"
   },
-  "homepage": "https://github.com/maddy-codes/nodejs-app-test#readme"
+  "homepage": "https://github.com/maddy-codes/nodejs-app-test#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
 }
